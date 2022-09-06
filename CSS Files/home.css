@@ -37,7 +37,7 @@ h4,h5{
 }
 
 a{
-    color: wheat;
+    color: gold;
     text-decoration: none;
 }
 button{
@@ -56,7 +56,7 @@ button:hover{
 /* Nav Section */
 .main-head{
     background-color: black;
-    color:wheat;
+    color:gold;
 }
 
 nav{
