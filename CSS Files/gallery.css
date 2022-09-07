@@ -140,8 +140,12 @@ nav ul{
 }
 
 .cards img{
-    max-width: 50%;
-    margin: 2rem;
+    max-width: 40rem;
+    margin: 1rem;
+}
+.card img:hover{
+    transform:scale(1.5);
+    cursor: pointer;
 }
 
 .card h4{
