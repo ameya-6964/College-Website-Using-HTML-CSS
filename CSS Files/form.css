@@ -50,7 +50,7 @@ button{
     transition: background 1s ease;
 }
 button:hover{
-    background: #1f2d3e ;
+    background: gold ;
 }
 
 /* Nav Section */
@@ -188,7 +188,7 @@ div.elem-group {
   .footer{
     min-height: 10rem;
 background-color: black;
-color:#fff;
+color:gold;
 font-size:1rem;
 text-align: center;
 padding-top: 3rem;

@@ -42,15 +42,16 @@ a{
 }
 button{
     padding: 2rem 6rem;
-    background: #4c6e97;
+    background: gold;
     border: none;
-    color: white;
+    color: black;
     font-size: 1.8rem;
     cursor: pointer;
     transition: background 1s ease;
 }
 button:hover{
-    background: #1f2d3e ;
+    background: black ;
+    color: gold;
 }
 
 /* Nav Section */
@@ -168,7 +169,7 @@ transform: translate(0%,0%);
 .footer{
     min-height: 10rem;
 background-color: black;
-color:#fff;
+color:gold;
 font-size:1rem;
 text-align: center;
 padding-top: 3rem;
@@ -199,5 +200,8 @@ html{
     }
     .moving-cap-2{
         z-index: -2;
+    }
+    .footer{
+        font-size: 1rem;
     }
 }
