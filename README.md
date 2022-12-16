@@ -1,6 +1,6 @@
 # CSS Mini Project 1:
 
-HTML Mini Project Jr College Website is Extended By Applying Neccessary CSS Features Such As Flex Box,Media Queries and Keyframes
+HTML Mini Project Jr College Website is Extended By Applying Neccessary CSS Features Such As Flex Box,Media Queries and Keyframes 
 
 # PHOTOS
 
@@ -35,4 +35,8 @@ HTML Mini Project Jr College Website is Extended By Applying Neccessary CSS Feat
 ## Gallery
 
 ![Gallery](https://user-images.githubusercontent.com/104457295/208042058-6de81261-033d-43d1-b2c8-d72967c0e691.png)
+
+### This Site Is Deployed Live On This Link https://airoli-jr-college-css.netlify.app/home.html Do Visit
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e4d724c5-01a0-4c80-9ef6-ce96654c6d9a/deploy-status)](https://app.netlify.com/sites/airoli-jr-college-css/deploys)
 
